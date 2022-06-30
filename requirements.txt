@@ -1,7 +1,0 @@
-turtle 
-keras
-time
-cv2
-numpy
-os
-streamlit
